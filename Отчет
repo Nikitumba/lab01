@@ -1,4 +1,3 @@
-# lab01-timp-
 Скачиваем библиотеку boost - wget: https://sourceforge.net/projects/boost/files/boost/1.69.0/boost_1_69_0.tar.gz.
 Разархивируем  файл: tar -xf boost_1_69_0.tar.gz
 меняем местоположение cd boost_1_69_0
@@ -19,4 +18,3 @@ mv ./boost/ ~/boost-libs && cd ~/boost-libs/
 ls -sh
 Найдите топ10 самых "тяжёлых"
 ls -alS | head -10
-
